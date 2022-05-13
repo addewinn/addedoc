@@ -1,2 +1,2 @@
-# AddeDoc
-Addepar implementation of ApexDoc for code documentation
+# addedoc
+Addepar plugin for metadata templates with ApexDoc tags
