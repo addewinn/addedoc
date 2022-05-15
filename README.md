@@ -1,9 +1,7 @@
 # addedoc
 Addepar implementation of ApexDoc.
 
-Extended from [ApexDoc](https://github.com/SalesforceFoundation/ApexDoc)
-
-### This project and repository are no longer maintained by Salesforce.org
+Extended from [ApexDoc](https://github.com/SalesforceFoundation/ApexDoc)  (This project and repository are no longer maintained by Salesforce.org)
 
 AddeDoc
 =======
