@@ -404,6 +404,8 @@ public class FileManager {
         docopy("Addepar-Logo-Stacked-Newsprint.png", toFileName);
         docopy("AddeDoc.css", toFileName);
         docopy("AddeDoc.js", toFileName);
+        docopy("author.html", toFileName);
+        docopy("home.html", toFileName);
         docopy("CollapsibleList.js", toFileName);
         docopy("jquery-1.11.1.js", toFileName);
         docopy("toggle_block_btm.gif", toFileName);

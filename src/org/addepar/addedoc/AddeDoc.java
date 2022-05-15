@@ -53,8 +53,8 @@ public class AddeDoc {
     public static void RunAddeDoc(String[] args, IProgressMonitor monitor) {
         String sourceDirectory = "";
         String targetDirectory = "";
-        String homefilepath = "";
-        String authorfilepath = "";
+        String homefilepath = "home.html";
+        String authorfilepath = "author.html";
         String hostedSourceURL = "";
 
         // parse command line parameters
