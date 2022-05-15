@@ -29,7 +29,7 @@ body {
     border-radius: 1em 1em 1em 1em;
 }
 h1,h2,h3{
-    color: #f4eeeb;
+    color: #082321;
 }
 a {
     color: #B07594 !important;
@@ -91,8 +91,8 @@ a {
 /* the horizontal header for each Method */
 .methodHeader {
     font-size: 1em;
-    color: #51638A;
-    border-top: 1px solid #51638A;
+    color: #082321;
+    border-top: 1px solid #082321;
     margin: 20px 0 0 0;
     padding: 4px 0 2px 0;
 }
@@ -116,7 +116,7 @@ a {
     font-family: Courier;
     font-size: .8em;
     font-weight: normal;
-    color: MediumBlue;
+    color: #B07594 ;
 }
 
 .clsPropertyDescription {
@@ -134,7 +134,7 @@ a {
 }
 
 .classSignature a {
-    color: mediumblue;
+    color: #B07594 ;
 }
 
 /* the description, author, date for the class */
@@ -146,7 +146,7 @@ a {
 /* signatures of methods and properties */
 .hostedSourceLink {
     text-decoration: initial;
-    color: mediumblue;
+    color: #B07594 ;
 }
 
 .hostedSourceLink:hover {
@@ -156,7 +156,7 @@ a {
 /* method table of contents related classes */
 .methodTOCEntry {
     font-size: .9em;
-    color: mediumblue;
+    color: #B07594 ;
 }
 
 .methodTOCEntry:visited {
@@ -212,7 +212,7 @@ a {
 }
 
 .methodExample {
-    background-color: #f7f7f7;
+    background-color: rgb(184, 182, 182);
     display: block;
     padding: 1em;
     white-space: pre;
@@ -250,6 +250,7 @@ div.navbar ul li:hover {
 
 div.navbar ul li.subitem:hover {
     background: #B07594 !important;
+    color: #082321 !important;
 }
 
 div.navbar ul li.subitem {
@@ -282,7 +283,7 @@ div.navbar ul li.nav-selected {
     display: block;
     text-decoration: none;
     padding: 5px 5px 5px 10px;
-    color: black;
+    color: #082321 !important;
 }
 
 li.collapsed .caret {

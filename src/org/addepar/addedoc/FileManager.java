@@ -401,7 +401,7 @@ public class FileManager {
     }
 
     private void copy(String toFileName) throws IOException, Exception {
-        docopy("Addepar-Logo-Stacked-Grn.png", toFileName);
+        docopy("Addepar-Logo-Stacked-Newsprint.png", toFileName);
         docopy("AddeDoc.css", toFileName);
         docopy("AddeDoc.js", toFileName);
         docopy("CollapsibleList.js", toFileName);
