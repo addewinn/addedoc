@@ -26,12 +26,12 @@ public class Constants {
         "<div class='topsection'>" +
         "<table>" +
         "<tr><td>" +
-        "<img src='Addepar-Logo-Stacked-Grn.png'/>" +
+        "<img src='Addepar-Logo-Stacked-Newsprint.png' style='max-width:20%; height:auto;'/>" +
         "</td>" +
         "<td>" +                
         "<h2 style='margin:0px;'>AddeForce</h2>" +
         "Check out the gitHub project at:<br/>" + 
-        "<a href='https://github.com/addewinn/addedoc'>https://github.com/addewinn/addedoc</a><br/>";
+        "<a href=https://github.com/Addepar/AddeForce'>https://github.com/Addepar/AddeForce</a><br/>";
 
     public static String getHeader(String projectDetail) {
         String header;

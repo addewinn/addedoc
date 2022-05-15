@@ -1,0 +1,21 @@
+Secondary Palette:
+  Royal: #b07594
+  Mauve: #d295ad
+  Iron: #bd5c45
+  Coral: #e3ad9f
+  Bronze: #f7b14f
+  Tan: #f1d0a5
+Primary Palette:
+  oct/view: samples
+  Dark Green: #082321
+  Forest: #00494b
+  Newsprint: #f4eeeb
+  Forest Background: #f2f6f6
+  White: #ffffff
+Technical:
+  Success: #3f7d40
+  Warning: #e4b927
+  Error: #cb323b
+Typography:
+  Text   /  Dark Gray: #333333
+  Link: #00696d
