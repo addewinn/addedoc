@@ -8,6 +8,8 @@ AddeDoc
 
 AddeDoc is a java app that you can use to document your Salesforce Apex classes.  You tell AddeDoc where your class files are, and it will generate a set of static HTML pages that fully document each class, including its properties and methods.  Each static HTML page will include an expandable menu on its left hand side, that shows a 2-level tree structure of all of your classes.  Command line parameters allow you to control many aspects of ApexDoc, such as providing your own banner HTML for the pages to use.
 
+![AddeDoc Home Page](docs/AddeDoc_ClassView.png)
+
 Build
 ======
 - Clone the repo
